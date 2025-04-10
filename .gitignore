@@ -1,0 +1,12 @@
+models/
+checkpoints/
+*.pt
+*.h5
+*.zip
+*.tar
+*.ckpt
+*.pkl
+*.csv
+
+.DS_Store
+Thumbs.db
